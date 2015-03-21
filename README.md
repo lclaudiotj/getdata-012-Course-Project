@@ -27,8 +27,8 @@ You should create one R script called run_analysis.R that does the following.
 
 To start the analysis, just follow the next steps:
 
-1. Download the data from the following link [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
-2. Unzip the file downloaded.
-3. Set the R working directory as the directory where you download this files using the `setwd(<current_directory>)` command.
-3. Run `source("run_analysis.R")`. As a result, it will generate the *tidy.txt* tidy data file.
+* Download the data from the following link [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+* Unzip the file downloaded.
+* Set the R working directory as the directory where you download this files using the `setwd(<current_directory>)` command.
+* Run `source("run_analysis.R")`. As a result, it will generate the *tidy.txt* tidy data file.
 
